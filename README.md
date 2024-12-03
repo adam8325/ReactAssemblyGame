@@ -1,5 +1,8 @@
 # Assembly: Endgame
 
+**Assembly: Endgame** is a word-guessing game where players attempt to guess a word within a limited number of attempts in order to escape assembly. Made through Scrimbas React-course
+
+
 ## Technologies Used 🛠️
 
 - **React**: For building the user interface with components and managing state using hooks like `useState`.
